@@ -13,20 +13,33 @@ Content:
 
 
 ## Methdology
-![image](/assets/map.png)
+
+<p align="center">
+  <img src="/assets/map.png" width="700"/>
+</p>
+
+
 
 ## Results
 ### Static Anlaysis
-1 of 72 engines on virustotal <br>
-<img src="/assets/Screenshot_1.png" width="800"/>
-<br>
-however many people cosinder **Trojan.Malware.300983.susgen** alert by **MaxSecure** a false positive
-<br>
-<img src="/assets/Screenshot_3.png" width="800"/>
+⚠️ *Flagged only by MaxSecure as* `Trojan.Malware.300983.susgen` — a known false positive in many cases.
+<p align="center">
+  <img src="/assets/Screenshot_1.png" width="700"/><br>
+    <em>VirusTotal Static Scan Result</em>
+</p>
+
+
+<p align="center">
+  <img src="/assets/Screenshot_3.png" width="700"/><br>
+  <em>MaxSecure False Positive Context</em>
+</p>
 
 ### Dynamic Anlaysis
-No Detection <br>
-<img src="/assets/Screenshot_2.png" width="800"/>
+✅ No malicious activity was detected during sandbox execution.
+<p align="center">
+  <img src="/assets/Screenshot_2.png" width="700"/><br>
+  <em>VirusTotal Behavior (Dynamic) Scan</em>
+</p>
 
 ## Conrtibutors
 Under supervision of [PhD magabdelaty](https://github.com/magabdelaty)  
@@ -36,3 +49,6 @@ Under supervision of [PhD magabdelaty](https://github.com/magabdelaty)
 - [helmii18](https://github.com/helmii18)
 - [7amo127](https://github.com/7amo127)
 - [yousefelfaham](https://github.com/yousefelfaham)
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
