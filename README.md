@@ -10,7 +10,7 @@ Content:
   - [Static Anlaysis](#static-anlaysis)
   - [Dynamic Anlaysis](#dynamic-anlaysis)
 - [Conrtibutors](#conrtibutors)
-- [Maetrial](#maetrial)
+- [Material](#material)
 - [License](#license)
 
 
@@ -52,7 +52,7 @@ Under supervision of [PhD magabdelaty](https://github.com/magabdelaty)
 - [7amo127](https://github.com/7amo127)
 - [yousefelfaham](https://github.com/yousefelfaham)
 
-- [Maetrial](#maetrial)
+## Material
 check [docs](/docs) for thesis pdf and powerpoint slides 
 
 ## License
