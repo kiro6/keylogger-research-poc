@@ -9,7 +9,9 @@ Content:
 - [Results](#results)
   - [Static Anlaysis](#static-anlaysis)
   - [Dynamic Anlaysis](#dynamic-anlaysis)
-- [Conrtibutors](#conrtibutors)    
+- [Conrtibutors](#conrtibutors)
+- [Maetrial](#maetrial)
+- [License](#license)
 
 
 ## Methdology
@@ -22,7 +24,7 @@ Content:
 
 ## Results
 ### Static Anlaysis
-⚠️ *Flagged only by MaxSecure as* `Trojan.Malware.300983.susgen` — a known false positive in many cases.
+⚠️ From 72 engines, *only MaxSecure* flagged the file as `Trojan.Malware.300983.susgen` — a generic heuristic signature that is often considered a false positive in many cases.
 <p align="center">
   <img src="/assets/Screenshot_1.png" width="700"/><br>
     <em>VirusTotal Static Scan Result</em>
@@ -49,6 +51,9 @@ Under supervision of [PhD magabdelaty](https://github.com/magabdelaty)
 - [helmii18](https://github.com/helmii18)
 - [7amo127](https://github.com/7amo127)
 - [yousefelfaham](https://github.com/yousefelfaham)
+
+- [Maetrial](#maetrial)
+check [docs](/docs) for thesis pdf and powerpoint slides 
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
