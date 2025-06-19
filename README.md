@@ -51,6 +51,8 @@ Under supervision of [PhD magabdelaty](https://github.com/magabdelaty)
 - [helmii18](https://github.com/helmii18)
 - [7amo127](https://github.com/7amo127)
 - [yousefelfaham](https://github.com/yousefelfaham)
+- [gogofady](https://github.com/gogofady)
+- [Topguyy](https://github.com/Topguyy)
 
 ## Material
 check [docs](/docs) for thesis pdf and powerpoint slides 
