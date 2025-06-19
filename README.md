@@ -1,6 +1,9 @@
 # keylogger-research-poc
 Proof of Concept (PoC) demonstrating how cracked software can be used to hide and deploy keyloggers.
 
+> Disclaimer: This project is intended for educational and research purposes only. It demonstrates how malicious actors may embed threats like keyloggers in cracked software to raise awareness and promote defensive security.
+Do not use this project to harm, exploit, or compromise systems or users. The authors are not responsible for any misuse of this code or its derivatives.
+
 Content:
 - [Methdology](#methdology)
 - [Results](#results)
