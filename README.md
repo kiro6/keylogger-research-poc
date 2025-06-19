@@ -1,11 +1,18 @@
 # keylogger-research-poc
 Proof of Concept (PoC) demonstrating how cracked software can be used to hide and deploy keyloggers.
 
+Content:
+- [Methdology](#methdology)
+- [Results](#results)
+  - [Static Anlaysis](#static-anlaysis)
+  - [Dynamic Anlaysis](#dynamic-anlaysis)
+- [Conrtibutors](#conrtibutors)    
+
+
 ## Methdology
 ![image](/assets/map.png)
 
 ## Results
-This file was flagged only by MaxSecure with the generic signature Trojan.Malware.300983.susgen. This is a known false positive in many cases, especially for custom or obfuscated binaries. No other antivirus engines detected the file as malicious, and behavior-based analysis showed no harmful activity.
 ### Static Anlaysis
 1 of 72 engines on virustotal <br>
 <img src="/assets/Screenshot_1.png" width="800"/>
@@ -26,5 +33,3 @@ Under supervision of [PhD magabdelaty](https://github.com/magabdelaty)
 - [helmii18](https://github.com/helmii18)
 - [7amo127](https://github.com/7amo127)
 - [yousefelfaham](https://github.com/yousefelfaham)
-- 
-
